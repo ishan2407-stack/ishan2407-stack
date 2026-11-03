@@ -55,3 +55,24 @@ Python-based academic project involving movie datasets, ratings analysis, and re
 ---
 
 *Learn. Build. Improve. Repeat.*
+
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ishan2407-stack&show_icons=true&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan2407-stack&layout=compact&theme=github_dark" />
+</p>
