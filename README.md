@@ -1,89 +1,57 @@
 # Ishan Purohit
 
-### Computer Science Engineering | Artificial Intelligence & Machine Learning
+**Computer Science Engineering | Artificial Intelligence & Machine Learning**
 
-B.Tech CSE (AI & ML) student focused on software development, problem-solving, and emerging technologies. Interested in building practical solutions through programming and continuous learning.
+B.Tech CSE (AI & ML) student interested in software development, problem-solving, and intelligent technologies.
 
 ---
 
-### ABOUT
+## About Me
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering (AI & ML)
-- 💻 Exploring software development and programming fundamentals
-- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🎓 B.Tech Computer Science Engineering (AI & ML)
+- 💻 Programming enthusiast
+- 🤖 Exploring Artificial Intelligence and Machine Learning
 - 🧠 Learning Data Structures & Algorithms
-- 🚀 Building projects to strengthen practical development skills
+- 🚀 Interested in developing practical software solutions
 
-### TECHNICAL SKILLS
+## Technical Skills
 
-**Programming Languages**
-- Python
-- C++
-- C
+**Languages:** Python, C++, C
 
-**Web Technologies**
-- HTML
-- CSS
+**Web Technologies:** HTML, CSS
 
-**Database**
-- SQL
+**Database:** SQL
 
-**Tools**
-- Git
-- GitHub
+**Tools:** Git, GitHub, VS Code
 
-### 🚀 Featured Projects
-
-#### 🎬 CineMatch – Minor Project
-[View Repository](https://github.com/ishan2407-stack/CineMatch-Minor-Project)
-
-- Developed as an academic minor project.
-- Built using Python.
-- Demonstrates practical programming and project development skills.
-
----
-
-### 📌 More Projects Coming Soon
-Currently working on strengthening my programming and development portfolio.
-
-### CURRENT FOCUS
-
-- Strengthening Data Structures & Algorithms
-- Exploring Machine Learning concepts
-- Improving Python programming skills
-- Developing practical projects
-
----
-
-### CONNECT
-
-[GitHub](https://github.com/ishan2407-stack)
-
----
-
-*Building skills. Solving problems. Creating things that matter.*
-
----
-
-### 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishan2407-stack&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan2407-stack&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ishan2407-stack&theme=github-dark-blue)
-
----
-
-### 💻 Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,mysql,git,github,vscode" />
-</p>
-
-### 🎯 Areas of Interest
+## Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
-- Data Structures & Algorithms
 - Software Development
+- Data Structures & Algorithms
+
+## Featured Projects
+
+### CineMatch – Movie Recommendation Project
+
+Python-based academic project involving movie datasets, ratings analysis, and recommendation outputs.
+
+[View Project](https://github.com/ishan2407-stack/CineMatch-Minor-Project)
+
+## Currently Learning
+
+- Advanced Python Programming
+- Data Structures & Algorithms
+- Machine Learning Fundamentals
+- Database Management Systems
+
+---
+
+### Connect
+
+[GitHub Profile](https://github.com/ishan2407-stack)
+
+---
+
+*Learn. Build. Improve. Repeat.*
