@@ -67,10 +67,12 @@ Python-based academic project involving movie datasets, ratings analysis, and re
 
 ---
 
-## 📊 GitHub Statistics
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishan2407-stack&show_icons=true&theme=tokyonight&hide_border=true)
+## 📊 GitHub Activity
 
-## 💻 Most Used Languages
+![GitHub Streak](https://streak-stats.demolab.com?user=ishan2407-stack&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan2407-stack&layout=compact&theme=tokyonight&hide_border=true)
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishan2407-stack&theme=tokyo-night)
