@@ -69,10 +69,8 @@ Python-based academic project involving movie datasets, ratings analysis, and re
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishan2407-stack&show_icons=true&theme=github_dark" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishan2407-stack&show_icons=true&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishan2407-stack&layout=compact&theme=github_dark" />
-</p>
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan2407-stack&layout=compact&theme=tokyonight&hide_border=true)
