@@ -64,3 +64,18 @@ B.Tech CSE (AI & ML) student focused on software development, problem-solving, a
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan2407-stack&layout=compact&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ishan2407-stack&theme=github-dark-blue)
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,mysql,git,github,vscode" />
+</p>
+
+### 🎯 Areas of Interest
+
+- Artificial Intelligence
+- Machine Learning
+- Data Structures & Algorithms
+- Software Development
