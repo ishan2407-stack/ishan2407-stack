@@ -32,11 +32,19 @@ B.Tech CSE (AI & ML) student focused on software development, problem-solving, a
 - Git
 - GitHub
 
-### FEATURED PROJECTS
+### 🚀 Featured Projects
 
-**CineMatch – Minor Project**
-- Python-based project.
-- Focused on exploring practical software development.
+#### 🎬 CineMatch – Minor Project
+[View Repository](https://github.com/ishan2407-stack/CineMatch-Minor-Project)
+
+- Developed as an academic minor project.
+- Built using Python.
+- Demonstrates practical programming and project development skills.
+
+---
+
+### 📌 More Projects Coming Soon
+Currently working on strengthening my programming and development portfolio.
 
 ### CURRENT FOCUS
 
