@@ -54,3 +54,13 @@ B.Tech CSE (AI & ML) student focused on software development, problem-solving, a
 ---
 
 *Building skills. Solving problems. Creating things that matter.*
+
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishan2407-stack&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishan2407-stack&layout=compact&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ishan2407-stack&theme=github-dark-blue)
